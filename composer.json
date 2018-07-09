@@ -2,5 +2,6 @@
     "name": "whoosh/elaadmin",
     "description": "A clean & completely free Bootstrap 4 admin dashboard template.",
     "keywords": ["ElaAdmin"],
-    "homepage": "https://colorlib.com/polygon/elaadmin/index.html"
+    "homepage": "https://colorlib.com/polygon/elaadmin/index.html",
+    "version": "1.0.0"
 }
