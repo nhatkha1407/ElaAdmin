@@ -10,7 +10,7 @@
 
 ![ElaAdmin admin dashboard template preview](https://colorlib.com/wp/wp-content/uploads/sites/2/elaadmin-bootstrap-admin-dashboard.jpg)
 
-### Demo Site: [Here](https://colorlib.com/polygon/elaadmin/index.html)
+### Demo Site: [The link is not available anymore]
 
 ### TOC
 - [Built With](#built-with)
